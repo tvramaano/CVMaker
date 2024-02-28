@@ -1,0 +1,95 @@
+.form-container{
+    background-color: rgb(242,242,242);
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    border-radius: 5px;
+    padding: 5%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-title{
+    color: green;
+    font-weight: 600;
+    float: left;
+    width: 100%;
+    margin-bottom: 5%;
+    font-size: 25px;
+}
+
+.form-content{
+    width: 100%;
+    margin-bottom: 2%;
+    float: left;
+}
+
+.form-content input{
+    width: 92%;
+    margin-bottom: 5%;
+    padding: 2%;
+    float: left;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+}
+
+.form-content textarea{
+    font-size: 20px;
+    width: 93%;
+    margin-bottom: 5%;
+    border: none;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-content .submit-button{
+    background-color: green;
+    width: 50%;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+.form-3{
+    width: 100%;
+    float: left;
+}
+
+.form-3 input,
+.button-group-3 .submit-button{
+    width: 27.3%;
+    margin: 2%;
+    margin-left: 0%;
+    margin-bottom: 5%;
+}
+
+.button-group-3 .submit-button{
+    width: 31%;
+}
+
+.link{
+    color: blue;
+    width: 98%;
+    margin: 1%;
+    font-size: 17px;
+    font-weight: 600;
+    float: left;
+}
+
+.link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.error{
+    color: red;
+    width: 98%;
+    margin: 1%;
+    font-size: 17px;
+    font-weight: 600;
+    float: left;
+}
+
+
